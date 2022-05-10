@@ -10,5 +10,6 @@
     * [女奴案](readme/yi-ti/nv-nu-an/README.md)
       * [赞成](readme/yi-ti/nv-nu-an/zan-cheng.md)
       * [反对](readme/yi-ti/nv-nu-an/fan-dui.md)
+    * [赤铁的去留](readme/yi-ti/chi-tie-de-qu-liu.md)
   * [法案](readme/fa-an/README.md)
     * [0 一个外交事件](readme/fa-an/0-yi-ge-wai-jiao-shi-jian.md)
