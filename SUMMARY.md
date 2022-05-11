@@ -1,6 +1,7 @@
 # Table of contents
 
 * [udstu 王权困境](README.md)
+  * [简介](readme/introduction.md)
   * [故事背景](readme/background.md)
   * [家族介绍](readme/family.md)
   * [Timeline](readme/timeline/README.md)
